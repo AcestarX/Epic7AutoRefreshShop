@@ -22,7 +22,7 @@ Use downloaded images as guidelines to your own screenshot as it may not recogni
 Overwrite images with your own to simplify process, as the name is already set.
 List below shows how each image will be recognized in the script.
 
-# Load images
+Load images
 mystic_bookmark_image = cv2.imread('mystic_bookmark.png')
 covenant_bookmark_image = cv2.imread('covenant_bookmark.png')
 mystic_buy_button_image = cv2.imread('mystic_buy_button.png')
