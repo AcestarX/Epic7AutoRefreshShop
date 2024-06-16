@@ -41,3 +41,4 @@ Scroll down and attempt to purchase again
 If still not found, refresh the shop
 If found it will purchase, refresh the shop.
 Random clicks to simulate human interactions, to avoid potential detection.
+Hold "q" or Press "q" multiple times to stop.
