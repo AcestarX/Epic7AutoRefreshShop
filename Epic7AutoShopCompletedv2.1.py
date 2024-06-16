@@ -41,7 +41,7 @@ def find_and_click(image, confidence=0.7, click_position='center'):
         x, y = max_loc
         h, w, _ = image.shape
         if click_position == 'bottom_right':
-            pyautogui.click(x + w - 5, y + h - 5)  # Adjust these offsets as needed
+            pyautogui.click(x + w - 70, y + h - 50)  # Adjust these offsets as needed
         else:
             pyautogui.click(x + w / 2, y + h / 2)
         return True
